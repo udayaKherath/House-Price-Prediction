@@ -1,0 +1,2 @@
+1. run the server
+2. open app html

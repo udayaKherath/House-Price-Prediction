@@ -3,7 +3,7 @@
 ## Introduction
 This document provides an overview of the House Price Prediction Machine Learning (ML) project. The goal of this project is to predict house prices based on various features such as square footage, number of bedrooms, location, etc. 
 
-## Dataset https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
+### Dataset https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 ## Preprocessing
 

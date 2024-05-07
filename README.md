@@ -28,7 +28,7 @@ These preprocessing steps were essential in preparing our dataset for training m
 
 - **Model Selection**: Overview of the different ML models experimented with and rationale for choosing the final model.
 - **Model Evaluation**: Evaluation metrics used to assess the performance of the ML models.
-- **Deployment**: Discussion on how the final model is deployed for real-world use.
+- **Deployment**: Discussion on how the final model is deployed for real-world use. 
 
 ## Model Selection
 Several ML models were experimented with, including:

@@ -47,7 +47,7 @@ Evaluation metrics used to assess the performance of the model include:
 
 After thorough experimentation and evaluation, we found that the Linear regression model consistently outperformed other models in terms of predictive accuracy. The neural network demonstrated superior performance in capturing complex patterns within the dataset, making it the most suitable choice for our house price prediction task.
 
-
+![Figure 1](https://raw.githubusercontent.com/udayaKherath/House-Price-Prediction/main/img1.png)
 
 ## Deployment
 The final model is deployed using [deployment method, e.g., Flask API] and can be accessed at [endpoint]. Users can input house features and receive a predicted price.

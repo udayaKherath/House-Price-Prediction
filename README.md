@@ -30,14 +30,6 @@ These preprocessing steps were essential in preparing our dataset for training m
 - **Model Evaluation**: Evaluation metrics used to assess the performance of the ML models.
 - **Deployment**: Discussion on how the final model is deployed for real-world use.
 
-## Dataset
-The dataset used for this project is the [name of the dataset], which contains [number of samples] samples and [number of features] features. The features include [list of features]. The target variable is [target variable].
-
-## Preprocessing
-1. **Data Cleaning**: Any missing or inconsistent data is handled by [method].
-2. **Feature Engineering**: New features are created from existing ones, such as [example].
-3. **Normalization/Scaling**: Features are scaled using [method] to ensure they have similar ranges.
-
 ## Model Selection
 Several ML models were experimented with, including:
 - Linear Regression
@@ -46,8 +38,6 @@ Several ML models were experimented with, including:
 - Gradient Boosting
 - Neural Networks
 
-The final model selected is [model name] because [reason for selection, e.g., best performance on validation set].
-
 ## Model Evaluation
 Evaluation metrics used to assess the performance of the model include:
 - Mean Absolute Error (MAE)
@@ -55,11 +45,9 @@ Evaluation metrics used to assess the performance of the model include:
 - Root Mean Squared Error (RMSE)
 - R-squared (R2)
 
-The final model achieved the following performance on the test set:
-- MAE: [value]
-- MSE: [value]
-- RMSE: [value]
-- R2: [value]
+After thorough experimentation and evaluation, we found that the Linear regression model consistently outperformed other models in terms of predictive accuracy. The neural network demonstrated superior performance in capturing complex patterns within the dataset, making it the most suitable choice for our house price prediction task.
+
+
 
 ## Deployment
 The final model is deployed using [deployment method, e.g., Flask API] and can be accessed at [endpoint]. Users can input house features and receive a predicted price.

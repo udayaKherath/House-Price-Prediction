@@ -50,8 +50,8 @@ After thorough experimentation and evaluation, we found that the Linear regressi
 ![Figure 1](https://raw.githubusercontent.com/udayaKherath/House-Price-Prediction/main/img1.png)
 
 ## Deployment
-The final model is deployed using [deployment method, e.g., Flask API] and can be accessed at [endpoint]. Users can input house features and receive a predicted price.
+The final model is deployed using Flask API. Users can input house features and receive a predicted price.
 
 ## Conclusion
-This project demonstrates the process of developing a house price prediction ML model from data preprocessing to model deployment. Further improvements could include [potential improvements, e.g., incorporating additional features, fine-tuning hyperparameters].
+This project demonstrates the process of developing a house price prediction ML model from data preprocessing to model deployment. Further improvements could include incorporating additional features, fine-tuning hyperparameters
 
